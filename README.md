@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [Wordnt] 🎯
 
 
 ## Basic Details
