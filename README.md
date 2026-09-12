@@ -51,3 +51,5 @@ The game begins with one forbidden letter and increases the difficulty as the pl
 6–8 successful words    → 3 forbidden letters
 9–11 successful words   → 4 forbidden letters
 12+ successful words    → 5 forbidden letters
+
+ 
